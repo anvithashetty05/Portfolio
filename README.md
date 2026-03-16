@@ -69,8 +69,7 @@ portfolio/
 ## 📬 Contact
 
 **Anvitha J Shetty**  
-📧 anvitha1ga22is017@gmail.com  
-📱 +91 8088762459  
+📧 anvitha1ga22is017@gmail.com    
 🔗 [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
 
 ---
